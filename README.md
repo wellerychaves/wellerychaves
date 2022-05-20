@@ -1,4 +1,11 @@
-### Hi there 👋
+## Oi :) Me chamo Wellery, que bom ter você por aqui 😁 
+
+<div>
+  <a href="https://github.com/wellerychaves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellerychaves&show_icons=true&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&layout=compact&langs_count=16&theme=midnight-purple" />
+</div>
+
 
 <!--
 **wellerychaves/wellerychaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
