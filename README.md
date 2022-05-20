@@ -1,6 +1,6 @@
 ## Oi :) Me chamo Wellery, que bom ter você por aqui 😁 
 
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/wellerychaves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellerychaves&show_icons=true&theme=midnight-purple" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&layout=compact&langs_count=8&theme=midnight-purple"/>
@@ -20,7 +20,7 @@
   
  ##
 
-<div style="display: inline_block"><br>
+<div>
   <a href="https://www.linkedin.com/in/wellerychaves/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
