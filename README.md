@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/wellerychaves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wellerychaves&show_icons=true&theme=midnight-purple" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wellerychaves&show_icons=true&theme=midnight-purple" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
