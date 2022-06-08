@@ -1,4 +1,4 @@
-## Oi :) Me chamo Wellery, que bom ter você por aqui 😁 
+## Oi, Prazer Wellery, que bom ter você por aqui 😁 
 
 🌱 I’m currently learning Python, React with TypeScript
 
