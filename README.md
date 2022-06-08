@@ -16,7 +16,7 @@
   <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://ca.slack-edge.com/TQZR39SET-U02DJGYU9D5-e6b5aa634a8b-512">
+  <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://ca.slack-edge.com/TQZR39SET-U02DJGYU9D5-e6b5aa634a8b-512">-->
  </div>
   
  ##
