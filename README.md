@@ -30,6 +30,18 @@
 
 ![Snake animation](https://github.com/wellerychaves/wellerychaves/blob/output/github-contribution-grid-snake.svg)
 
+  
+  ##
+  
+  ##
+  
+  ##
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wellerychaves/count.svg?"  />
+</div>
+
+###
 <!--
 **wellerychaves/wellerychaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
