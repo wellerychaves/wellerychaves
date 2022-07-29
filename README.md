@@ -1,6 +1,7 @@
 ## Oi Meu nome é Wellery, que bom ter você por aqui 😁 
 
-🌱 I’m currently learning Python and React with TypeScript
+🌱 I’m currently improving my knowledge in Node and TypeScript
+
 
 <div align="center">
   <a href="https://github.com/wellerychaves">
