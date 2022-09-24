@@ -1,6 +1,6 @@
 ## Oi Meu nome é Wellery, que bom ter você por aqui 😁 
 
-🌱 I’m currently improving my knowledge in Node and TypeScript
+🌱 Estou aperfeiçoando meus projetos, em breve irei publicar em meu linkedin!
 
 
 <div align="center">
