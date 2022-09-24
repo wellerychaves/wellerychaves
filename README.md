@@ -1,6 +1,6 @@
 ## Oi Meu nome é Wellery, que bom ter você por aqui 😁 
 
-🌱 Estou aperfeiçoando meus projetos, em breve irei publicar em meu linkedin!
+🌱 Estou aperfeiçoando meus projetos, em breve irei publica-los em meu linkedin!
 
 
 <div align="center">
