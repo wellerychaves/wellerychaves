@@ -33,8 +33,8 @@
 
 ###
   
-  <div>
-# My Techs
+<div>
+  ###### My Techs
 
 Javascript, Html
 </div>
