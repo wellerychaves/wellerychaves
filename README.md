@@ -33,7 +33,7 @@
 
 ###
   
-<div color="red">
+<font color="red">
 a
   a
   a
