@@ -33,10 +33,8 @@
 
 ###
   
-<div>
-  ###### My Techs
+<div style="background-color: #000">
 
-Javascript, Html
 </div>
   
 <!--
