@@ -33,7 +33,7 @@
 
 ###
   
-<div style="background-color: #000">
+<div color="red">
 a
   a
   a
