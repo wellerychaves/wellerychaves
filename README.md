@@ -33,7 +33,7 @@
 
 ###
   
-[Imgur](https://i.imgur.com/7XiIsWS.png)
+<a href="https://imgur.com/7XiIsWS"><img src="https://i.imgur.com/7XiIsWS.png" title="source: imgur.com" /></a>
   
 <!--
 **wellerychaves/wellerychaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
