@@ -1,5 +1,5 @@
 <!-- I think this was a good idea -->
-<img src="https://i.imgur.com/NuS0gH1.png"/>
+<img src="https://i.imgur.com/nM8OyxS.png"/>
 
 #### Certificates
 [Full Stack Development](https://drive.google.com/file/d/1k_Pk5_K5XqAo86skf_syW1SIXv3DnH4l/viewusp=share_link)
