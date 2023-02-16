@@ -10,4 +10,4 @@
 [LinkedIn](https://www.linkedin.com/in/wellerychaves/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerychaves&theme=midnight-purple&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
