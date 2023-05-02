@@ -1,5 +1,5 @@
 <!-- I think this was a good idea -->
-<img src="https://i.imgur.com/IbGC3S5.png"/>
+<img src="https://i.imgur.com/Ter3xpX.png"/>
 <!-- I think this was a good idea -->
 
 ## About-me
