@@ -1,5 +1,7 @@
 <!-- I think this was a good idea -->
 <img src="https://i.imgur.com/IbGC3S5.png"/>
+<!-- I think this was a good idea -->
+
 ## About-me
 My name is Wellery Chaves, I have 22 years old. I’m Full Stack Developer with more than a year of experience. 
 I'm a perfectionist and I'm always looking for ways to improve and optimize my projects.  
