@@ -19,7 +19,7 @@ HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components;
 APIs Rest, Django, Express, Jest, NodeJs, PostgreSQL, Rest framework;
 
 #### Learning
-Next.js, Tailwind CSS;
+Bun, Tailwind CSS;
 
 #### Software & Tools
 Docker, Figma, Git, GitHub, Insomnia, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2, Yarn.
