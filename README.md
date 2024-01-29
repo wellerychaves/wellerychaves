@@ -13,21 +13,21 @@ I love learning new things and I always try to improve what I already know.
 Javascript, Python, Typescript;
 
 #### Front-end Development
-HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components;
+HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 
 #### Back-end Development
 APIs Rest, Django, Express, Jest, NodeJs, PostgreSQL, Rest framework;
 
-#### Learning
-Bun, Tailwind CSS;
+#### Learning / Improving
+Typescript;
 
 #### Software & Tools
-Docker, Figma, Git, GitHub, Insomnia, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2, Yarn.
+Bun, Docker, Figma, Git, GitHub, Insomnia, Nodejs, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2, Yarn;
 
 ## Soft Skills
 
 #### Languages
-Portuguese - Native;
+Portuguese - Native;    
 English - C1 Advanced [EF SET Certificate™ | Wellery Chaves](https://www.efset.org/cert/HiedgU);
 
 #### Methods
