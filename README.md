@@ -3,8 +3,9 @@
 <!-- I think this was a good idea -->
 
 ## About-me
-I am a Full Stack Developer with a strong passion for learning and improving my skills. 
-Over the past two years, I have dedicated myself to personal projects that have allowed me to expand my knowledge in various technologies and web app development methodologies.
+My name Is Wellery Chaves, I am a Full Stack Developer with a strong passion for learning and improving my skills.       
+Over the past two years, I have dedicated myself to personal projects that have allowed me to expand my knowledge in various technologies and web app development methodologies.       
+I'm very curious and proactive, always seeking out new challenges and opportunities to grow.
 
 ## Hard Skills
 
