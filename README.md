@@ -18,7 +18,7 @@ HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 #### Back-end Development
 APIs Rest, Django, Express, Jest, NodeJs, Rest framework;
 
-### Database
+#### Database
 Mysql, PostgreSQL
 
 #### Learning / Improving
