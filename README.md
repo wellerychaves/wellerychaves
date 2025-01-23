@@ -16,23 +16,25 @@ Javascript, Python, Typescript, C#;
 HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 
 #### Back-end Development
-APIs Rest, Django, Express, Jest, NodeJs, PostgreSQL, Rest framework;
+APIs Rest, Django, Express, Jest, NodeJs, Rest framework;
+
+### Database
+Mysql, PostgreSQL
 
 #### Learning / Improving
-C#;
+HonoJs, Drizzle ORM
 
 #### Software & Tools
-Bun, Docker, Figma, Git, GitHub, Insomnia, Nodejs, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2, Yarn;
+Bun, Docker, Figma, Git, GitHub, Insomnia, Nodejs, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2;
 
 ## Soft Skills
-
-#### Languages
-Portuguese - Native;    
-English - C1 Advanced [EF SET Certificate™ | Wellery Chaves](https://www.efset.org/cert/HiedgU);
 
 #### Methods
 Scrum, Kanban;
 
+#### Languages
+Portuguese - Native;    
+English - C1 Advanced [EF SET Certificate™ | Wellery Chaves](https://www.efset.org/cert/HiedgU);
 
 #### Certificates
 [Full Stack Development](https://drive.google.com/file/d/1k_Pk5_K5XqAo86skf_syW1SIXv3DnH4l/viewusp=share_link)
