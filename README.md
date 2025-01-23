@@ -3,9 +3,8 @@
 <!-- I think this was a good idea -->
 
 ## About-me
-My name is Wellery Chaves, I have 23 years old. I’m Full Stack Developer with 2 years of experience.       
-I'm a perfectionist and I'm always looking for ways to improve and optimize my projects.  
-I love learning new things and I always try to improve what I already know.
+I am a Full Stack Developer with a strong passion for learning and improving my skills. 
+Over the past two years, I have dedicated myself to personal projects that have allowed me to expand my knowledge in various technologies and web app development methodologies.
 
 ## Hard Skills
 
