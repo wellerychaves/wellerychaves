@@ -19,7 +19,7 @@ HTML, CCS, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 APIs Rest, Django, Express, Jest, NodeJs, Rest framework;
 
 #### Database
-Mysql, PostgreSQL
+MySQL, PostgreSQL
 
 #### Learning / Improving
 HonoJs, Drizzle ORM
