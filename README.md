@@ -10,10 +10,10 @@ I love learning new things and I always try to improve what I already know.
 ## Hard Skills
 
 #### Programming languages
-Javascript, Python, Typescript, C#;
+Javascript, Python, Typescript;
 
 #### Front-end Development
-HTML5, CCS3, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
+HTML, CCS, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 
 #### Back-end Development
 APIs Rest, Django, Express, Jest, NodeJs, Rest framework;
