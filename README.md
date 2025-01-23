@@ -16,7 +16,7 @@ Javascript, Python, Typescript;
 HTML, CCS, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 
 #### Back-end Development
-APIs Rest, Django, Express, Jest, NodeJs, Rest framework;
+APIs Rest, Express, Jest, NodeJs, Rest framework;
 
 #### Database
 MySQL, PostgreSQL
