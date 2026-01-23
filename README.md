@@ -2,44 +2,36 @@
 <img src="https://i.imgur.com/Ter3xpX.png"/>
 <!-- I think this was a good idea -->
 
-## About-me
-My name Is Wellery Chaves, I am a Full Stack Developer with a strong passion for learning and improving my skills.       
-Over the past two years, I have dedicated myself to personal projects that have allowed me to expand my knowledge in various technologies and web app development methodologies.       
-I'm very curious and proactive, always seeking out new challenges and opportunities to grow.
+I'm Wellery, a Full Stack Developer from Brazil who enjoys building stuff for the web.
 
-## Hard Skills
+I graduated from Kenzie Academy Brasil's Full Stack program a few years ago and have been learning and experimenting ever since. I like working on both frontend and backend - switching between them keeps things interesting for me. Different challenges, different dopamine hits, you know?
 
-#### Programming languages
-Javascript, Typescript;
+Right now I'm diving into Rust and having a blast with it. It's a completely different world from the JavaScript ecosystem I'm used to, and that's exactly what makes it fun.
 
-#### Front-end Development
-HTML, CCS, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
+## What I work with
 
-#### Back-end Development
-Rest APIs, Express, HonoJS, Jest;
+**Languages**  
+JavaScript, TypeScript
 
-#### Database
+**Frontend**  
+React, HTML, CSS, Styled Components, TailwindCSS, Redux, Context API
+
+**Backend**  
+Node.js, Express, HonoJS, REST APIs
+
+**Database**  
 MySQL, PostgreSQL
 
-#### Learning / Improving
-Drizzle ORM, Rust
+**Currently learning**  
+Rust (and loving the challenge)
 
-#### Software & Tools
-Bun, Docker, Figma, Git, GitHub, Insomnia, Nodejs, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2;
+**Tools I use daily**  
+Git, GitHub, VS Code, Docker, Bun, Figma, Insomnia, WSL2
 
-## Soft Skills
+## A bit more about me
 
-#### Methods
-Scrum, Kanban;
+I'm the kind of developer who starts many projects and finishes... well, fewer than I'd like. My repos are full of experiments, half-baked ideas, and learning exercises. Nothing groundbreaking, just me trying to figure things out and improve.
 
-#### Languages
-Portuguese - Native;    
-English - C1 Advanced [EF SET Certificate™ | Wellery Chaves](https://www.efset.org/cert/HiedgU);
+I appreciate clean code, good documentation (when I remember to write it), and the constant journey of learning new things in this field.
 
-#### Certificates
-[Full Stack Development](https://drive.google.com/file/d/1k_Pk5_K5XqAo86skf_syW1SIXv3DnH4l/viewusp=share_link)
-<br>
-[EF SET - Wellery Chaves](https://www.efset.org/cert/HiedgU)
-
-#### Contact-me:
-[LinkedIn](https://www.linkedin.com/in/wellerychaves/)
+I'm a native Portuguese speaker and also comfortable working in English (C1 level).
