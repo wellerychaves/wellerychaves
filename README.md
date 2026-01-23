@@ -10,19 +10,19 @@ I'm very curious and proactive, always seeking out new challenges and opportunit
 ## Hard Skills
 
 #### Programming languages
-Javascript, Python, Typescript;
+Javascript, Typescript;
 
 #### Front-end Development
 HTML, CCS, React, ContextAPI, Redux, Axios, Styled Components, TailwindCSS;
 
 #### Back-end Development
-APIs Rest, Express, Jest, NodeJs;
+Rest APIs, Express, HonoJS, Jest;
 
 #### Database
 MySQL, PostgreSQL
 
 #### Learning / Improving
-HonoJs, Drizzle ORM
+Drizzle ORM, Rust
 
 #### Software & Tools
 Bun, Docker, Figma, Git, GitHub, Insomnia, Nodejs, npm, Obisidian, Trello, Visual Studio Code, Vite, Windows Terminal, WSL2;
