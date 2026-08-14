@@ -17,7 +17,7 @@ JavaScript, TypeScript
 React, HTML, CSS, Styled Components, TailwindCSS, Redux, Context API
 
 **Backend**  
-Node.js, Express, HonoJS, REST APIs
+Bun, Node.js, ElysiaJS, Express, HonoJS, RESTfull APIs
 
 **Database**  
 MySQL, PostgreSQL
