@@ -26,7 +26,7 @@ MySQL, PostgreSQL
 Rust (and loving the challenge)
 
 **Tools I use daily**  
-Git, GitHub, VS Code, Docker, Bun, Figma, Insomnia, WSL2
+Git, GitHub, Zed, Docker, Figma, Insomnia, WSL2
 
 ## A bit more about me
 
